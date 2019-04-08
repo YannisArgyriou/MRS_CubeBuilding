@@ -1,0 +1,8 @@
+# Ignore checkpoints of iPython
+.ipynb_checkpoints/*
+
+# Ignore python cache
+__pycache__/*
+
+# Compiled source and logs
+*.pyc
